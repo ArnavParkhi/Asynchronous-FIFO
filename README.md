@@ -1,5 +1,5 @@
 # Asynchronous-FIFO
-Verilog code of asynchronous fifo module along with the testbench
+Verilog code of asynchronous fifo module along with the testbench.
 
 
 
